@@ -1,0 +1,2 @@
+csc hello.cs
+pause
